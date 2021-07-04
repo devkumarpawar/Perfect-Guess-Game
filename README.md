@@ -1,2 +1,2 @@
 # Perfect-Guess-Game
- Using Python
+**Using Python with Random module**
